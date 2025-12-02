@@ -1,0 +1,694 @@
+[
+  {
+    "slide": 1,
+    "metadata": {
+      "width": 720,
+      "height": 405
+    },
+    "content": {
+      "aec1c739-3eda-4239-a5cd-4cbd78eb327c": {
+        "original_content": "A decade of innovation, growth with digital frontier",
+        "position": {
+          "x": 24,
+          "y": 33
+        },
+        "size": {
+          "width": 670,
+          "height": 31
+        },
+        "alignment": "center",
+        "font": {
+          "size": 13,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "7de970bd-68dc-4f8e-b560-7d5451e46e9f": {
+        "original_content": "The comprehensive suite of marketing and branding solutions with cultural depth and digital leadership",
+        "position": {
+          "x": 24,
+          "y": 57
+        },
+        "size": {
+          "width": 670,
+          "height": 31
+        },
+        "alignment": "center",
+        "font": {
+          "size": 11,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "bc47960b-e104-47ab-b4a4-b127e735ce44": {
+        "original_content": "Founding vision & inception",
+        "position": {
+          "x": 24,
+          "y": 134
+        },
+        "size": {
+          "width": 153,
+          "height": 25
+        },
+        "alignment": "right",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "949e3ba8-26c9-46c6-ba76-da7adf472d8c": {
+        "original_content": "Founded in 2015 with the mission of “sharing happyness” as a digital and creative partner\nEmphasized a deep understanding of Vietnamese culture with the embedded digital frontier",
+        "position": {
+          "x": 24,
+          "y": 162
+        },
+        "size": {
+          "width": 153,
+          "height": 136
+        },
+        "alignment": "center",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "3d6ec9ce-dfe8-47f5-859a-ae45ca75dc5a": {
+        "original_content": "Introduction of the XPhin Model",
+        "position": {
+          "x": 196,
+          "y": 118
+        },
+        "size": {
+          "width": 153,
+          "height": 25
+        },
+        "alignment": "right",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "8263fbe3-91ce-44f0-add0-6af8554622d0": {
+        "original_content": "Developed the proprietary XPhin Model, a strategic and creative planning framework inspired by the Vietnamese phin coffee filter, symbolizing a meticulous and culturally grounded approach to campaign development",
+        "position": {
+          "x": 196,
+          "y": 145
+        },
+        "size": {
+          "width": 153,
+          "height": 154
+        },
+        "alignment": "center",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "ec345256-0597-481d-be25-79a2e2fb7e7a": {
+        "original_content": "Expansion of services & client base",
+        "position": {
+          "x": 369,
+          "y": 104
+        },
+        "size": {
+          "width": 153,
+          "height": 25
+        },
+        "alignment": "right",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "570a379c-9e43-48a9-a73d-860b5c105efe": {
+        "original_content": "Expanded to a comprehensive service suite: creative solutions, 360 digital performance, social management, influence hacking\nCollaborated with 100+ clients and 500+ projects across various industries",
+        "position": {
+          "x": 369,
+          "y": 130
+        },
+        "size": {
+          "width": 153,
+          "height": 168
+        },
+        "alignment": "center",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "3397e5e0-c935-48a8-a322-35f84655ff4d": {
+        "original_content": "Launch of Xanh & Partners",
+        "position": {
+          "x": 541,
+          "y": 89
+        },
+        "size": {
+          "width": 153,
+          "height": 25
+        },
+        "alignment": "right",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "2d6e1f26-c811-40ff-9fa2-7e50b6fc8b0c": {
+        "original_content": "Introduced the end-to-end integrated solutions comprising:",
+        "position": {
+          "x": 541,
+          "y": 116
+        },
+        "size": {
+          "width": 153,
+          "height": 182
+        },
+        "alignment": "center",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "f5fca16c-c52b-4579-95c1-5556a9ce1bfa": {
+        "original_content": "Social-tainment marketing",
+        "position": {
+          "x": 578,
+          "y": 167
+        },
+        "size": {
+          "width": 108,
+          "height": 28
+        },
+        "alignment": "center",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "11d05405-af6e-4882-b522-690373824815": {
+        "original_content": "Ecommerce enablement and solutions",
+        "position": {
+          "x": 578,
+          "y": 210
+        },
+        "size": {
+          "width": 108,
+          "height": 28
+        },
+        "alignment": "center",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "44d275f6-a53a-48a7-80fe-cea7fa3e0b37": {
+        "original_content": "Creative production house",
+        "position": {
+          "x": 606,
+          "y": 254
+        },
+        "size": {
+          "width": 82,
+          "height": 28
+        },
+        "alignment": "center",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      }
+    }
+  },
+  {
+    "slide": 2,
+    "metadata": {
+      "width": 720,
+      "height": 405
+    },
+    "content": {
+      "f84cec46-9cb9-44fc-bea6-4fe709e76b44": {
+        "original_content": "Vietnam’s ecommerce and social commerce boom - a digital gold rush",
+        "position": {
+          "x": 24,
+          "y": 33
+        },
+        "size": {
+          "width": 670,
+          "height": 31
+        },
+        "alignment": "center",
+        "font": {
+          "size": 13,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "6b9e1524-9e0b-4836-8edc-3da339d19663": {
+        "original_content": "Riding the next wave of digital commerce: platforms, creators, and social engagement",
+        "position": {
+          "x": 24,
+          "y": 53
+        },
+        "size": {
+          "width": 670,
+          "height": 31
+        },
+        "alignment": "center",
+        "font": {
+          "size": 11,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "07da36ac-7271-489a-859b-4a7f2cb904f2": {
+        "original_content": "Ecommerce is still on the rise",
+        "position": {
+          "x": 24,
+          "y": 82
+        },
+        "size": {
+          "width": 327,
+          "height": 28
+        },
+        "alignment": "center",
+        "font": {
+          "size": 11,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "751fe745-d56f-4003-a927-3c984ce78bb4": {
+        "original_content": "Vietnam’s ecommerce industry, US$bn",
+        "position": {
+          "x": 24,
+          "y": 113
+        },
+        "size": {
+          "width": 253,
+          "height": 12
+        },
+        "alignment": "center",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "8d363d04-39c7-4177-8ecc-88de8c8a829e": {
+        "original_content": "Key drivers",
+        "position": {
+          "x": 429,
+          "y": 125
+        },
+        "size": {
+          "width": 266,
+          "height": 12
+        },
+        "alignment": "right",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "9074e8a3-76dc-480f-a0e3-1c70bd2ea4f9": {
+        "original_content": "OnPoint, a leading Vietnamese e-commerce enabler, secured US$50m to enhance its omnichannel solutions and expand its digital commerce ecosystem across SEA. In December 2024, OnPoint acquired Thailand-based e-commerce service provider CREA to strengthen its regional presence and offer comprehensive digital commerce solutions",
+        "position": {
+          "x": 27,
+          "y": 303
+        },
+        "size": {
+          "width": 667,
+          "height": 65
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "5d23ce49-0e3f-42d1-af98-a87155db7951": {
+        "original_content": "High internet penetration",
+        "position": {
+          "x": 462,
+          "y": 141
+        },
+        "size": {
+          "width": 129,
+          "height": 40
+        },
+        "alignment": "left",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "2a840a69-71e2-4a54-a84c-66641e0995e6": {
+        "original_content": "Young, tech-savvy population",
+        "position": {
+          "x": 462,
+          "y": 182
+        },
+        "size": {
+          "width": 129,
+          "height": 40
+        },
+        "alignment": "left",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "426e350a-5225-4fa1-97b6-b183584f1f51": {
+        "original_content": "Social media integration & shoppertainment",
+        "position": {
+          "x": 462,
+          "y": 227
+        },
+        "size": {
+          "width": 233,
+          "height": 40
+        },
+        "alignment": "left",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "69324784-d893-4d24-95a2-1c6bb6be25c5": {
+        "original_content": "Description",
+        "position": {
+          "x": 462,
+          "y": 160
+        },
+        "size": {
+          "width": 129,
+          "height": 40
+        },
+        "alignment": "left",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "f24cd5c8-9be2-438f-9960-f661f8902f84": {
+        "original_content": "Description",
+        "position": {
+          "x": 462,
+          "y": 201
+        },
+        "size": {
+          "width": 129,
+          "height": 40
+        },
+        "alignment": "left",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "1d86dedd-eab7-492d-9c9d-cf1bf27af43e": {
+        "original_content": "Description",
+        "position": {
+          "x": 462,
+          "y": 247
+        },
+        "size": {
+          "width": 233,
+          "height": 40
+        },
+        "alignment": "left",
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      }
+    }
+  },
+  {
+    "slide": 3,
+    "metadata": {
+      "width": 720,
+      "height": 405
+    },
+    "content": {
+      "f1214e0f-a3dc-40ca-a101-0ad14684f683": {
+        "original_content": "Proposed investment highlights to best position Xanh Marketing",
+        "position": {
+          "x": 24,
+          "y": 33
+        },
+        "size": {
+          "width": 670,
+          "height": 31
+        },
+        "alignment": "center",
+        "font": {
+          "size": 13,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "ac9aa1b0-3fe6-4445-9cbe-c721a7e09225": {
+        "original_content": "Thoughtful positioning of Xanh Marketing to help drive an above market valuation",
+        "position": {
+          "x": 24,
+          "y": 53
+        },
+        "size": {
+          "width": 670,
+          "height": 31
+        },
+        "alignment": "center",
+        "font": {
+          "size": 11,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "16ccb5c1-a630-4441-b5dc-d78302503249": {
+        "original_content": "A premier digital-first creative agency with deep cultural insight",
+        "position": {
+          "x": 25,
+          "y": 138
+        },
+        "size": {
+          "width": 158,
+          "height": 31
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "b7b90136-d90c-4ff7-840a-f6f65619c25d": {
+        "original_content": "Blue-chip customer base with diverse end markets",
+        "position": {
+          "x": 195,
+          "y": 138
+        },
+        "size": {
+          "width": 158,
+          "height": 31
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "740b9225-ff1c-44ce-a6b5-7fedf6a7936d": {
+        "original_content": "Compelling financials",
+        "position": {
+          "x": 366,
+          "y": 138
+        },
+        "size": {
+          "width": 158,
+          "height": 31
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "62f2b286-5eff-411b-ab5d-5c52eca48438": {
+        "original_content": "From agency to platform to become the end-to-end solution provider",
+        "position": {
+          "x": 537,
+          "y": 138
+        },
+        "size": {
+          "width": 158,
+          "height": 31
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "e86dfdcb-49dd-42d6-9b75-55da8126f02d": {
+        "original_content": "Founded in 2015 with a mission to deliver brand campaigns rooted in Vietnamese culture \nDeveloped the XPhin Model, a creative framework inspired by Vietnam’s phin coffee filter\nIdeal for investors seeking culturally-rooted, scalable platforms in SEA",
+        "position": {
+          "x": 25,
+          "y": 177
+        },
+        "size": {
+          "width": 157,
+          "height": 164
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "60afa40e-17e8-4339-9b55-de35758b6ad9": {
+        "original_content": "Track record of over 500 campaigns for 100+ brands across digital and social channels, emphasizing creativity and cultural relevance\nProven ability to adapt brand narratives to various sectors with high standards of execution\nDiversified client base provides revenue stability and cross-sell potential, lowering customer concentration risk for investors",
+        "position": {
+          "x": 195,
+          "y": 177
+        },
+        "size": {
+          "width": 157,
+          "height": 164
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "4e1d2183-ead9-47a3-89a6-ec943b23476c": {
+        "original_content": "TBU after accessing to Xanh’s financial documents",
+        "position": {
+          "x": 367,
+          "y": 177
+        },
+        "size": {
+          "width": 157,
+          "height": 164
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        }
+      },
+      "3458f662-fabd-4e0c-ac6d-bb4cd8ac1f77": {
+        "original_content": "Positioning to become a one-stop platform for modern brand-building: blending culture, content, and commerce\nPlatform model unlocks economies of scale and cross-selling opportunities for strategic players\nIdeal platform for both strategic and financial investors to “invest and build” and consolidate similar players in the market",
+        "position": {
+          "x": 538,
+          "y": 177
+        },
+        "size": {
+          "width": 157,
+          "height": 164
+        },
+        "alignment": "left",
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        }
+      }
+    }
+  }
+]

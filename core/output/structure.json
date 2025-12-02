@@ -1,0 +1,848 @@
+[
+  {
+    "slide": 1,
+    "purpose": "Generate a flan recipe for the 2nd column",
+    "content": {
+      "a310a495-6adf-46bb-bc91-62a7bb8564e2": {
+        "original_content": "A decade of innovation, growth with digital frontier",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 33.0
+        },
+        "size": {
+          "width": 670.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 13,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Primary slide title or headline summarizing the historical period or theme.",
+        "content": "M.O.I Cosmetics: Strategic Milestones and Growth Trajectory"
+      },
+      "4a95b789-466d-428e-8f59-cb48eabe6bbc": {
+        "original_content": "The comprehensive suite of marketing and branding solutions with cultural depth and digital leadership",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 57.0
+        },
+        "size": {
+          "width": 670.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 11,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Secondary headline or summary statement providing high-level context for the timeline.",
+        "content": "A local champion leveraging celebrity moat, asset-light model, and hyper-localization to challenge 90% foreign market dominance."
+      },
+      "6b473895-54a9-4321-8da9-69236910d91e": {
+        "original_content": "Founding vision & inception",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 134.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 25.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Title for Milestone/Phase 1 (e.g., Founding, Inception, Initial Strategy).",
+        "content": "Initial Vision & Founding (2017)"
+      },
+      "c1cc0874-aed2-46a0-bb90-724e25792051": {
+        "original_content": "<i> use the content of this component, don’t change.\nFounded in 2015 with the mission of “sharing happyness” as a digital and creative partner\nEmphasized a deep understanding of Vietnamese culture with the embedded digital frontier",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 162.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 136.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "<i> use the content of this component, don’t change.\nFounded in 2015 with the mission of “sharing happyness” as a digital and creative partner\nEmphasized a deep understanding of Vietnamese culture with the embedded digital frontier",
+        "content": [
+          "Founded in 2015 with the mission of “sharing happyness” as a digital and creative partner",
+          "Emphasized a deep understanding of Vietnamese culture with the embedded digital frontier"
+        ]
+      },
+      "4ea4681c-69d0-4ed8-ab79-26d54fb3a94e": {
+        "original_content": "Introduction of the XPhin Model",
+        "content_type": "TEXT",
+        "position": {
+          "x": 196.0,
+          "y": 118.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 25.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Title for Milestone/Phase 2 (e.g., Introduction of a key methodology, proprietary model, or major product).",
+        "content": "Rapid Scale & Financial Proof (2018-2019)"
+      },
+      "5202ee4e-11bd-45ab-acc5-12ca4dc626c2": {
+        "original_content": "2nd column\nDeveloped the proprietary XPhin Model, a strategic and creative planning framework inspired by the Vietnamese phin coffee filter, symbolizing a meticulous and culturally grounded approach to campaign development",
+        "content_type": "TEXT",
+        "position": {
+          "x": 196.0,
+          "y": 145.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 154.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Detailed narrative describing Milestone 2, focusing on the development and significance of the new framework or model.",
+        "content": [
+          "Achieved profitability in FY 2019, demonstrating efficient execution and healthy unit economics",
+          "Secured $450K Series A funding in 2019 from strategic investor CMG.ASIA",
+          "Maintained an average annual growth rate of 150% (excluding 2021)"
+        ]
+      },
+      "57b72d04-46e0-4234-80ae-515e2a47d0b1": {
+        "original_content": "Expansion of services & client base",
+        "content_type": "TEXT",
+        "position": {
+          "x": 369.0,
+          "y": 104.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 25.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Title for Milestone/Phase 3 (e.g., Expansion, Growth, Scaling Operations).",
+        "content": "Market Penetration & Moat Development (2020-2022)"
+      },
+      "19f17175-d1e4-4402-bf7a-cac1e6411d20": {
+        "original_content": "Expanded to a comprehensive service suite: creative solutions, 360 digital performance, social management, influence hacking\nCollaborated with 100+ clients and 500+ projects across various industries",
+        "content_type": "TEXT",
+        "position": {
+          "x": 369.0,
+          "y": 130.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 168.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Detailed narrative describing Milestone 3, including metrics on client growth, expanded service offerings, and project volume.",
+        "content": [
+          "Became the only Vietnamese brand consistently ranked in the Top 10 makeup market share",
+          "Grew market share from 0.9% (2018) to 3.2% (2022) in color cosmetics",
+          "Leveraged an asset-light model, outsourcing manufacturing to certified Korean factories (e.g., Cosmax)",
+          "Customized core products (e.g., Baby Skin Cushion) for Vietnamese skin and climate (e.g., SPF 50+)"
+        ]
+      },
+      "37f053f5-eb49-4533-b7f2-95a77f124c59": {
+        "original_content": "Launch of Xanh & Partners",
+        "content_type": "TEXT",
+        "position": {
+          "x": 541.0,
+          "y": 89.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 25.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Title for Milestone/Phase 4 (e.g., Launch of a new division, partnership, or integrated solution set).",
+        "content": "Strategic Expansion & Omni-Channel Reach (2023-Present)"
+      },
+      "afa7c7b6-6dc0-4d14-a4b5-4b6037c392cb": {
+        "original_content": "Introduced the end-to-end integrated solutions comprising:",
+        "content_type": "TEXT",
+        "position": {
+          "x": 541.0,
+          "y": 116.0
+        },
+        "size": {
+          "width": 153.0,
+          "height": 182.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Introductory text for the list of components or services offered under Milestone 4.",
+        "content": "Expansion focuses on high-margin adjacencies and leveraging a robust distribution network:"
+      },
+      "9ba1cbf7-b3ee-46e6-a1b6-fda970a51a10": {
+        "original_content": "Social-tainment marketing",
+        "content_type": "TEXT",
+        "position": {
+          "x": 578.0,
+          "y": 167.0
+        },
+        "size": {
+          "width": 108.0,
+          "height": 28.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Specific sub-point or component 4a of the integrated solution/offering.",
+        "content": "Distribution Network: Established 1,000+ dedicated agents nationwide for deep market penetration."
+      },
+      "67a3a366-cd32-4bf0-b2f1-35549320d750": {
+        "original_content": "Ecommerce enablement and solutions",
+        "content_type": "TEXT",
+        "position": {
+          "x": 578.0,
+          "y": 210.0
+        },
+        "size": {
+          "width": 108.0,
+          "height": 28.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Specific sub-point or component 4b of the integrated solution/offering.",
+        "content": "Retail Presence: Strategic placement in major modern retail chains (Guardian, Hasaki, BeautyBox)."
+      },
+      "cdd88e71-6920-4956-96dd-879d693c70b0": {
+        "original_content": "Creative production house",
+        "content_type": "TEXT",
+        "position": {
+          "x": 606.0,
+          "y": 254.0
+        },
+        "size": {
+          "width": 82.0,
+          "height": 28.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Specific sub-point or component 4c of the integrated solution/offering.",
+        "content": "Product Diversification: Launched DA by M.O.I skincare sub-brand, targeting the largest market segment (43% share)."
+      }
+    }
+  },
+  {
+    "slide": 2,
+    "purpose": "Keep this content: :” Ecommerce is still on the rise”",
+    "content": {
+      "6466bba7-f4dc-4579-b82a-4b328202834e": {
+        "original_content": "Vietnam’s ecommerce and social commerce boom - a digital gold rush",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 33.0
+        },
+        "size": {
+          "width": 670.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 13,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Main Title/Headline: Statement of the market opportunity or significant trend in the target region or industry.",
+        "content": "Digitalization Reshapes Vietnam's Cosmetics Market Landscape"
+      },
+      "84e119bd-f21b-436f-9ce7-d8a737c3d26e": {
+        "original_content": "Riding the next wave of digital commerce: platforms, creators, and social engagement",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 53.0
+        },
+        "size": {
+          "width": 670.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 11,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Subtitle/Context: Elaboration on the specific mechanisms, technologies, or themes driving the overarching trend.",
+        "content": "High digital penetration and social commerce are accelerating the shift from traditional retail channels and fueling consumer spending."
+      },
+      "77c5c867-9038-45f9-8bdf-8dcca38d3511": {
+        "original_content": "<i>Keep this “Ecommerce is still on the rise”",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 82.0
+        },
+        "size": {
+          "width": 327.0,
+          "height": 28.0
+        },
+        "font": {
+          "size": 11,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "<i>Keep this “Ecommerce is still on the rise”",
+        "content": "Ecommerce is still on the rise"
+      },
+      "f9c5a123-dfd6-402c-ad6d-4cc9878eda13": {
+        "original_content": {
+          "series": [
+            {
+              "name": "Market size (US$bn)",
+              "values": [
+                16.1,
+                17.66009,
+                19.371352721,
+                21.2484367996649,
+                23.30741032555243
+              ]
+            }
+          ],
+          "categories": []
+        },
+        "content_type": "CHART",
+        "position": {
+          "x": 25.0,
+          "y": 150.0
+        },
+        "size": {
+          "width": 387.0,
+          "height": 146.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Arial"
+        },
+        "content_description": "Data Visualization: A chart (e.g., line, bar) illustrating the historical and projected growth of a key market metric (e.g., market size, revenue, user base) over a defined period.",
+        "content": {
+          "series": [
+            {
+              "name": "Market size (US$bn)",
+              "values": [
+                16.1,
+                17.66009,
+                19.371352721,
+                21.2484367996649,
+                23.30741032555243
+              ]
+            }
+          ],
+          "categories": []
+        }
+      },
+      "1853b830-c16f-4504-9060-f1e1a7428de5": {
+        "original_content": "<i> Vietnam’s ecommerce industry, US$bn",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 113.0
+        },
+        "size": {
+          "width": 253.0,
+          "height": 12.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "<i> Vietnam’s ecommerce industry, US$bn",
+        "content": "Vietnam’s ecommerce industry, US$bn"
+      },
+      "a271d12a-9032-43a8-8bea-450d78b827bd": {
+        "original_content": "Key drivers",
+        "content_type": "TEXT",
+        "position": {
+          "x": 429.0,
+          "y": 125.0
+        },
+        "size": {
+          "width": 266.0,
+          "height": 12.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Section Header: Title for the qualitative analysis section focusing on the causes or enablers of the market trend (e.g., Key Drivers, Contributing Factors).",
+        "content": "Structural Drivers Fueling Digital Adoption"
+      },
+      "988d672a-ffff-45c5-b217-7f0c35ef80a5": {
+        "original_content": "<i> Use exactly this phrase",
+        "content_type": "TEXT",
+        "position": {
+          "x": 27.0,
+          "y": 303.0
+        },
+        "size": {
+          "width": 667.0,
+          "height": 65.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "<i> Use exactly this phrase",
+        "content": "Key Drivers"
+      },
+      "469df7a8-b4bc-4e21-90c0-8d32b5f20cda": {
+        "original_content": "High internet penetration",
+        "content_type": "TEXT",
+        "position": {
+          "x": 462.0,
+          "y": 141.0
+        },
+        "size": {
+          "width": 129.0,
+          "height": 40.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Driver 1 (Headline): A concise factor contributing to the market growth (e.g., technological adoption, infrastructure).",
+        "content": "Expanding Middle Class"
+      },
+      "abb50c86-af03-44c8-8f1c-9b06d2daa5e2": {
+        "original_content": "Young, tech-savvy population",
+        "content_type": "TEXT",
+        "position": {
+          "x": 462.0,
+          "y": 182.0
+        },
+        "size": {
+          "width": 129.0,
+          "height": 40.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Driver 2 (Headline): A concise factor contributing to the market growth (e.g., demographic shift, consumer behavior).",
+        "content": "High Mobile & Social Penetration"
+      },
+      "8dec56f6-f4d2-4daf-8cd8-9d1ada0ba7ea": {
+        "original_content": "Social media integration & shoppertainment",
+        "content_type": "TEXT",
+        "position": {
+          "x": 462.0,
+          "y": 227.0
+        },
+        "size": {
+          "width": 233.0,
+          "height": 40.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Driver 3 (Headline): A concise factor contributing to the market growth (e.g., platform innovation, regulatory environment).",
+        "content": "Premiumization and Functional Demand"
+      },
+      "6a839d9b-2b64-452e-9c63-b85cd1f4276c": {
+        "original_content": "Description",
+        "content_type": "TEXT",
+        "position": {
+          "x": 462.0,
+          "y": 160.0
+        },
+        "size": {
+          "width": 129.0,
+          "height": 40.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Driver 1 (Description): Detailed explanation or supporting statistics for the first key driver.",
+        "content": [
+          "Middle class projected to reach 26% of the population by 2026",
+          "Per capita income forecast to hit $7,500 by 2030, driving discretionary spending",
+          "Consumers spend $19–$21 monthly on makeup/skincare, fueling the premium segment"
+        ]
+      },
+      "395b22b2-bf55-4fa4-9523-7b8468d3bcd6": {
+        "original_content": "Description",
+        "content_type": "TEXT",
+        "position": {
+          "x": 462.0,
+          "y": 201.0
+        },
+        "size": {
+          "width": 129.0,
+          "height": 40.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Driver 2 (Description): Detailed explanation or supporting statistics for the second key driver.",
+        "content": [
+          "E-commerce share of beauty sales expected to reach 24% by 2027",
+          "Over 75% smartphone penetration enables rapid digital adoption",
+          "Social commerce platforms (TikTok Shop, Shopee) drive high-volume sales and consumer engagement"
+        ]
+      },
+      "27278319-c845-4093-8f60-3791d015c79d": {
+        "original_content": "Description",
+        "content_type": "TEXT",
+        "position": {
+          "x": 462.0,
+          "y": 247.0
+        },
+        "size": {
+          "width": 233.0,
+          "height": 40.0
+        },
+        "font": {
+          "size": 7,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Driver 3 (Description): Detailed explanation or supporting statistics for the third key driver.",
+        "content": [
+          "Skincare dominates the product mix (43% share) with 11.8% CAGR projected through 2032",
+          "Demand is high for functional products like anti-aging and UV protection",
+          "Local natural/vegan segment is a high-growth niche, expanding at 30% CAGR"
+        ]
+      }
+    }
+  },
+  {
+    "slide": 3,
+    "purpose": "Presenting the core investment thesis and key value drivers for the entity, structured into distinct categories.",
+    "content": {
+      "d296ff32-e8c9-4d9e-9563-1548dc25696b": {
+        "original_content": "Proposed investment highlights to best position Xanh Marketing",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 33.0
+        },
+        "size": {
+          "width": 670.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 13,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Main slide title, summarizing the focus on proposed investment highlights or key selling points.",
+        "content": "Investment Rationale: Accelerating Growth and Premium Valuation Potential"
+      },
+      "7b0205be-b54e-41f0-8cf6-23cfc3c5eef4": {
+        "original_content": "Thoughtful positioning of Xanh Marketing to help drive an above market valuation",
+        "content_type": "TEXT",
+        "position": {
+          "x": 24.0,
+          "y": 53.0
+        },
+        "size": {
+          "width": 670.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 11,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Subtitle providing the strategic context or desired outcome of the positioning (e.g., achieving a premium valuation).",
+        "content": "M.O.I offers exceptional growth (150% YoY average), proven profitability, and a path to commanding premium multiples through niche consolidation and digital mastery."
+      },
+      "8348ee0f-5c66-4df0-9383-d3bcdcb3dd46": {
+        "original_content": "A premier digital-first creative agency with deep cultural insight",
+        "content_type": "TEXT",
+        "position": {
+          "x": 25.0,
+          "y": 138.0
+        },
+        "size": {
+          "width": 158.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Header for the first category: Defining the core business, unique offering, or product differentiation (e.g., Agency/Service Model).",
+        "content": "Differentiated Product & Operating Model"
+      },
+      "970e372d-8da2-487b-982a-396dfa6db585": {
+        "original_content": "Blue-chip customer base with diverse end markets",
+        "content_type": "TEXT",
+        "position": {
+          "x": 195.0,
+          "y": 138.0
+        },
+        "size": {
+          "width": 158.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Header for the second category: Describing market strength, customer quality, or client diversification.",
+        "content": "Defensible Market Moat & Brand Equity"
+      },
+      "a89dbe5b-0c0a-45f2-979f-99b96aee33a7": {
+        "original_content": "Compelling financials",
+        "content_type": "TEXT",
+        "position": {
+          "x": 366.0,
+          "y": 138.0
+        },
+        "size": {
+          "width": 158.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Header for the third category: Summarizing the financial performance and stability.",
+        "content": "Proven Financial Performance"
+      },
+      "aaad37dd-17de-4ab8-a4b2-47e9065a2c8b": {
+        "original_content": "From agency to platform to become the end-to-end solution provider",
+        "content_type": "TEXT",
+        "position": {
+          "x": 537.0,
+          "y": 138.0
+        },
+        "size": {
+          "width": 158.0,
+          "height": 31.0
+        },
+        "font": {
+          "size": 9,
+          "bold": true,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Header for the fourth category: Outlining the future growth strategy, transformation plan, or scalability potential.",
+        "content": "Clear Strategic Roadmap & M&A Value"
+      },
+      "672ebb27-260f-4b29-b3f9-4f0a0744064b": {
+        "original_content": "Founded in 2015 with a mission to deliver brand campaigns rooted in Vietnamese culture \nDeveloped the XPhin Model, a creative framework inspired by Vietnam’s phin coffee filter\nIdeal for investors seeking culturally-rooted, scalable platforms in SEA",
+        "content_type": "TEXT",
+        "position": {
+          "x": 25.0,
+          "y": 177.0
+        },
+        "size": {
+          "width": 157.0,
+          "height": 164.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Detailed bullet points supporting the core business definition, including history, mission, proprietary methods, and unique market appeal.",
+        "content": [
+          "Combines international quality (Korean manufacturing) with hyper-localization for Vietnamese users",
+          "Only Vietnamese enterprise consistently ranked in the Top 10 makeup market share (3.2% in 2022)",
+          "Asset-light model ensures rapid scalability without heavy CapEx, optimizing capital deployment",
+          "Core products (e.g., Baby Skin Cushion) are tailored for local skin and climate (e.g., SPF 50+ PA+++)"
+        ]
+      },
+      "f55f8930-dea2-4cfb-be96-3ba81e6ac3e9": {
+        "original_content": "Track record of over 500 campaigns for 100+ brands across digital and social channels, emphasizing creativity and cultural relevance\nProven ability to adapt brand narratives to various sectors with high standards of execution\nDiversified client base provides revenue stability and cross-sell potential, lowering customer concentration risk for investors",
+        "content_type": "TEXT",
+        "position": {
+          "x": 195.0,
+          "y": 177.0
+        },
+        "size": {
+          "width": 157.0,
+          "height": 164.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Detailed bullet points supporting market strength, including track record, client volume, sector adaptability, and revenue stability/risk mitigation.",
+        "content": [
+          "Strong brand equity amplified by co-founder Hồ Ngọc Hà (celebrity Creative Director), building consumer trust",
+          "Extensive, nationwide distribution network of ~1,000 dedicated agents ensures deep market penetration",
+          "Omnichannel presence secured through placement in major modern retail (Guardian, Hasaki) and all major e-commerce platforms",
+          "Directly challenges the 90% market dominance held by foreign multinationals"
+        ]
+      },
+      "84a05393-2f86-4df1-a55f-c131e6e60819": {
+        "original_content": "TBU after accessing to Xanh’s financial documents",
+        "content_type": "TEXT",
+        "position": {
+          "x": 367.0,
+          "y": 177.0
+        },
+        "size": {
+          "width": 157.0,
+          "height": 164.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": true,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Placeholder for specific financial data, analysis, or key performance indicators (KPIs) supporting the financial summary.",
+        "content": [
+          "Achieved profitability early (FY 2019), demonstrating efficient execution and healthy unit economics",
+          "Exceptional growth trajectory with an average annual growth rate of 150% (excluding 2021)",
+          "Current scale (implied US$12M contextual revenue) positions M.O.I to command a premium over global beauty multiples (median 2.6x EV/Revenue)",
+          "Management confidence signaled by preparations for a Series B funding round"
+        ]
+      },
+      "6ce5ecd9-8b58-48a2-9a3c-5398e13c062f": {
+        "original_content": "Positioning to become a one-stop platform for modern brand-building: blending culture, content, and commerce\nPlatform model unlocks economies of scale and cross-selling opportunities for strategic players\nIdeal platform for both strategic and financial investors to “invest and build” and consolidate similar players in the market",
+        "content_type": "TEXT",
+        "position": {
+          "x": 538.0,
+          "y": 177.0
+        },
+        "size": {
+          "width": 157.0,
+          "height": 164.0
+        },
+        "font": {
+          "size": 9,
+          "bold": false,
+          "italic": false,
+          "underline": false,
+          "name": "Manrope"
+        },
+        "content_description": "Detailed bullet points supporting the future strategy, including positioning goals, platform benefits (e.g., economies of scale), and rationale for strategic investment.",
+        "content": [
+          "Strategic expansion into high-growth, high-margin adjacencies (Haircare, intensive anti-aging care, vegan lines)",
+          "Skincare sub-brand (DA by M.O.I) targets the largest market segment (43% share), increasing customer lifetime value",
+          "High strategic M&A value for global acquirers (e.g., Amorepacific, P&G) seeking immediate access to local intelligence",
+          "Acquisition bypasses high import tariffs and the complexity of establishing an authentic local brand identity from scratch"
+        ]
+      }
+    }
+  }
+]
