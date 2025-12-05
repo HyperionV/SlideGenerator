@@ -8,10 +8,8 @@ Extracts individual slides, generates descriptions, and stores them.
 import logging
 from pathlib import Path
 from typing import List
-from datetime import datetime
 import tempfile
 import hashlib
-import zipfile
 
 from utils.load_and_merge import PPTXLoader, PPTXSlideManager
 from utils.utils import normalize_presentation, extract_slide_notes
@@ -19,9 +17,7 @@ from models.vertex import vertexai_model
 from models.voyage import voyage_embed
 from utils.schemas import (
     SlideLibraryMetadata, 
-    SlideMetadata, 
     StorageReference,
-    SlideContent
 )
 from prompts import SLIDE_DESCRIPTION_SYSTEM_PROMPT, SLIDE_DESCRIPTION_USER_PROMPT
 
@@ -94,6 +90,12 @@ class SlideIngestionService:
                         slide_idx,
                         temp_dir
                     )
+
+                    # Render preview image for downstream storage
+                    preview_path = self._render_slide_preview(
+                        single_slide_path,
+                        temp_dir
+                    )
                     
                     # Calculate file hash for deduplication
                     file_hash = self._calculate_file_hash(single_slide_path)
@@ -119,6 +121,7 @@ class SlideIngestionService:
                     metadata = SlideLibraryMetadata(
                         file_hash=file_hash,
                         description=description,
+                        preview=None,
                         dimensions={
                             "width": int(dimensions["width"]),
                             "height": int(dimensions["height"])
@@ -139,6 +142,7 @@ class SlideIngestionService:
                     # Store atomically
                     storage_ref = await self.storage.store_slide(
                         slide_pptx_path=single_slide_path,
+                        preview_image_path=preview_path,
                         metadata=metadata,
                         embedding=embedding
                     )
@@ -323,6 +327,29 @@ class SlideIngestionService:
         except Exception as e:
             print(f"Embedding generation failed: {e}")
             raise
+
+    def _render_slide_preview(self, slide_path: Path, output_dir: Path) -> Path:
+        """
+        Render a single-slide PPTX to a PNG preview and return the image path.
+        """
+        from spire.presentation import Presentation
+
+        presentation = Presentation()
+        presentation.LoadFromFile(str(slide_path))
+
+        try:
+            slide = presentation.Slides[0]
+            image = slide.SaveAsImage()
+
+            try:
+                target = output_dir / f"{slide_path.stem}.png"
+                image.Save(str(target))
+                return target
+            finally:
+                image.Dispose()
+        finally:
+            presentation.Dispose()
+
     def _calculate_file_hash(self, file_path: Path) -> str:
         """
         Calculate SHA256 hash of the entire file content.

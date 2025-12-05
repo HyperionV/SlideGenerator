@@ -90,6 +90,7 @@ class SlideStorageAdapter:
     async def store_slide(
         self,
         slide_pptx_path: Path,
+        preview_image_path: Path | None,
         metadata: SlideLibraryMetadata,
         embedding: list[float]
     ) -> StorageReference:
@@ -110,6 +111,7 @@ class SlideStorageAdapter:
             Exception: If storage fails (after rollback)
         """
         s3_key = None
+        preview_s3_key = None
         mongodb_id = None
         qdrant_id = None
         
@@ -122,9 +124,19 @@ class SlideStorageAdapter:
             )
             s3_key = s3_result["s3_key"]
             print(f"S3 upload successful: {s3_key}")
+
+            if preview_image_path:
+                print(f"Uploading preview to S3: {preview_image_path.name}")
+                preview_result = await self.s3.upload_file_with_hash(
+                    file_path=preview_image_path,
+                    original_name=preview_image_path.name
+                )
+                preview_s3_key = preview_result["s3_key"]
+                print(f"S3 preview upload successful: {preview_s3_key}")
             
             # Step 2: Store metadata in MongoDB
             print(f"Storing metadata in MongoDB (database: {self.database_name})")
+            metadata.preview = preview_s3_key
             mongo_doc = metadata.model_dump()
             mongo_doc["storage_ref"] = {
                 "s3_key": s3_key,

@@ -28,6 +28,7 @@ class SlideLibraryMetadata(BaseModel):
     slide_id: str = Field(default_factory=lambda: str(uuid.uuid4()))
     file_hash: str = Field(description="SHA256 hash of the slide PPTX file for deduplication")
     description: str
+    preview: Optional[str] = Field(default=None, description="S3 key for the PNG preview of the slide")
     dimensions: SlideMetadata
     element_count: int
     storage_ref: StorageReference
