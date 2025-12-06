@@ -1,2 +1,6 @@
 auth.json
 .env
+
+node_modules/
+output/
+temp/
